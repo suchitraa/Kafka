@@ -7,7 +7,8 @@
       "Gender": "M",
       "bodyTemperature": 36.9,
       "overseasTravelHistory": true,
-      "eventTimestamp": "2020-03-02 02:09:00"
+      "eventTimestamp": "2020-03-02 02:09:00",
+      "Reason":"Stress"
     },
     {
       "eventId": "002",
@@ -17,7 +18,8 @@
       "Gender": "M",
       "bodyTemperature": 36.8,
       "overseasTravelHistory": false,
-      "eventTimestamp": "2020-03-02 03:09:11"
+      "eventTimestamp": "2020-03-02 03:09:11",
+      "Reason":"accident"
     },
     {
       "eventId": "003",
@@ -27,7 +29,8 @@
       "Gender": "F",
       "bodyTemperature": 36.8,
       "overseasTravelHistory": true,
-      "eventTimestamp": "2020-03-04 02:09:00"
+      "eventTimestamp": "2020-03-04 02:09:00",
+      "Reason":"diabetes"
     },
     {
       "eventId": "004",
@@ -37,6 +40,7 @@
       "Gender": "F",
       "bodyTemperature": 37.2,
       "overseasTravelHistory": false,
-      "eventTimestamp": "2020-03-06 01:09:00"
+      "eventTimestamp": "2020-03-06 01:09:00",
+      "Reason":"high fever"
     }
   ]
